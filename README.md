@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
@@ -105,14 +106,15 @@ Didesain etnik dengan sentuhan kayu alami, memberi kesan hangat dan autentik unt
       <div class="copy">© 2025 Kunci Kreatif</div>
     </div>
     <div class="col">
-      <strong>Kontak</strong>
-      <div style="margin-top:10px;" class="contact-links">
-        <a href="https://wa.me/6283876438466" target="_blank">📱 WhatsApp</a>
-        <a href="mailto:kuncikreatif11@gmail.com">✉ Email</a>
-        <a href="https://shopee.co.id" target="_blank">🛍 Shopee</a>
-        <a href="https://www.instagram.com/kuncikreatif.store/" target="_blank">📷 Instagram</a>
-      </div>
-    </div>
+  <strong>Kontak</strong>
+  <div style="margin-top:10px;" class="contact-links">
+    <a href="https://wa.me/6283876438466" target="_blank">📱 WhatsApp</a>
+    <a href="mailto:kuncikreatif11@gmail.com">✉ Email</a>
+    <a href="https://shopee.co.id" target="_blank">🛍 Shopee</a>
+    <a href="https://www.instagram.com/kuncikreatif.store/" target="_blank">📷 Instagram</a>
+  </div>
+</div>
+
 <div class="col">
   <strong>Alamat</strong>
       <div style="margin-top:10px; color:#e6d6c8">
